@@ -1,0 +1,127 @@
+
+
+
+/*COR PRINCIPAL*/
+.wq-btn_1,
+.wq-header .wq-navegacao .btn_header a,
+.wq-01 .wq-titulo_1,
+.wq-05 .wq-titulo_1,
+.wq-05 h3,
+.wq-07 .wq-titulo_1,
+.wq-08 .wq-08_item .wq-titulo_1,
+.wq-08 .wq-08_item .wq-btn_1,
+.wq-09  .wq-titulo_1,
+.wq-09 .wq-conteudo h3,
+.wq-basico_link,
+.wq-08 .wq-08_item .wq-btn_1:hover,
+.wq-header .wq-navegacao .wq-menu_principal ul li,
+.wq-btn_2,
+.wq-01-empresa p,
+.wq-03-empresa .wq-titulo_1,
+.wq-03-empresa .wq-conteudo h3,
+.wq-04-empresa .wq-conteudo h3,
+.wq-04-empresa .wq-conteudo ul li:hover,
+.wq-01-servicos p,
+.wq-02-servicos h3,
+.wq-06 .wq-titulo_1,
+.wq-06 .wq-conteudo h3,
+.wq-servicos-interna_02 h3,
+.wq-servicos-interna_02 .wq-titulo_1,
+.wq-servicos-interna_01 .wq-titulo_1,
+.wq-01-blog .wq-blog_conteudo h2,
+.wq-01-blog .wq-blog_conteudo ul li,
+.wq-01-blog .wq-blog_conteudo ul li a,
+.wq-01-blog .wq-sidebar h3,
+.wq-01-blog .wq-sidebar form button,
+.wq-01-blog .wq-sidebar .wq-categorias ul li a:hover,
+.wq-01-blog .wq-sidebar .wq-categorias h3,
+.wq-01-blog .wq-sidebar .wq-ultimos-posts h3,
+.wq-01-blog .wq-sidebar .wq-ultimos-posts ul li p,
+.wq-01-blog .wq-sidebar .wq-tags h3,
+.wq-01-blog .wq-sidebar .wq-arquivos h3,
+.wq-01-contato h5
+{color: #333;}
+
+/*COR SECUNDARIA*/
+
+.wq-01 .wq-titulo_1 h2 span,
+.wq-03 .wq-conteudo-ful .wq-conteudo h3 a,
+.wq-04 h3 span,
+.wq-05 span.icon,
+.wq-06 .icone_aspa i,
+.wq-09 .wq-conteudo .wq-data,
+.wq-btn_2:hover,
+.wq-footer .wq-subfooter .wq-outros-sevicos li a
+.wq-footer .wq-subfooter .wq-funcionamento li span,
+.wq-header .wq-subheader ul li i,
+.wq-header .wq-navegacao .wq-menu_principal ul li a:hover,
+.wq-03 .wq-conteudo-ful .wq-btn_1:hover,
+.wq-footer .wq-subfooter .wq-outros-sevicos li a,
+.wq-footer .wq-subfooter .wq-funcionamento li span,
+.wq-header .wq-navegacao .wq-menu_principal ul li.active,
+.wq-breadcrump a:hover,
+.wq-02-empresa .wq-icon,
+.wq-03-empresa .wq-conteudo h3:hover a,
+.wq-04-empresa .wq-conteudo h3:hover,
+.wq-04-empresa .wq-conteudo span,
+.wq-04-empresa .wq-conteudo ul li,
+.wq-02-servicos h3:hover,
+.wq-servicos-interna_02 h3:hover,
+.wq-01-blog .wq-blog_conteudo h2:hover,
+.wq-01-blog .wq-blog_conteudo ul li a,
+.wq-01-blog .wq-sidebar .wq-categorias ul li a,
+.wq-01-blog .wq-sidebar .wq-ultimos-posts ul li p:hover,
+.wq-01-blog .wq-sidebar .wq-ultimos-posts ul li .wq-data,
+.wq-01-blog .wq-sidebar .wq-arquivos ul li a:hover,
+.wq-01-contato h5 a:hover
+
+{color:#ffb901;}
+
+/*BACKGROUND PRINCIPAL*/
+.wq-header .wq-navegacao .btn_header a:hover,
+.wq-03 .wq-padding,
+.wq-header .wq-subheader,
+.wq-08 .wq-08_item .wq-btn_1,
+.wq-footer .wq-subfooter,
+.wq-btn_1:hover,
+.wq-02-empresa,
+.wq-01-blog .wq-paginas ul li a:hover,
+.wq-01-blog .wq-sidebar .wq-tags ul li a
+{background-color: #333;}
+
+/*BACKGROUND SECUNDARIO*/
+.wq-header .wq-navegacao .btn_header a,
+.wq-btn_1,
+.wq-01-blog .wq-sidebar .wq-tags ul li a:hover
+
+{background-color: #ffb901;}
+
+/*BORDA PRINCIPAL*/
+
+
+/*BORDA SECUNDARIA*/
+.wq-05 span.icon,
+.wq-02-empresa .wq-icon
+{border-color:#ffb901; }
+
+
+
+
+
+
+
+/*wq-02 background imagem*/
+.wq-02{background-image: url(img/background-02.jpg);}
+
+
+
+/*wq-04 background imagem*/
+.wq-04{background-image: url(img/img6.jpg);}
+
+
+/*wq-06 background imagem*/
+.wq-06{background-image: url(img/img7.png);}
+
+
+/*wq-08 background imagem*/
+.wq-08{background-image: url(img/img13.jpg);}

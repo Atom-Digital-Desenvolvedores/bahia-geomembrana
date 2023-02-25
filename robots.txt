@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /website2019/wp-admin/
+
+Sitemap: https://gaiaprojetos.com/sitemap_index.xml

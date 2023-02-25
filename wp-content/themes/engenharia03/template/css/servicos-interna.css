@@ -1,0 +1,92 @@
+
+.wq-servicos-interna_01{
+	padding: 100px 0;
+}
+.wq-servicos-interna_01 p{
+    font-weight: 400;
+    font-size: 17px;
+    line-height:;
+	margin-bottom: 10px;
+}
+.wq-servicos-interna_01 .wq-titulo_1{
+	text-align: left;
+    margin-top: 20px;
+	margin-bottom: 10px;
+}
+.wq-servicos-interna_01 figure{
+    
+}
+.wq-servicos-interna_01 figure img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+
+/*wq-02*/
+.wq-servicos-interna_02{background: #f9f9f9;padding: 50px 0 100px 0;}
+.wq-servicos-interna_02{padding-bottom: 100px;}
+.wq-servicos-interna_02 h3{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: all linear .3s;
+}
+.wq-servicos-interna_02 p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.75;
+    color: #939494;
+}
+.wq-servicos-interna_02 figure{height: 230px;}
+.wq-servicos-interna_02 img{display: block;width: 100%;height: 100%;object-fit: cover;}
+.wq-servicos-interna_02 .wq-flex{flex-wrap: wrap;justify-content: flex-start;}
+
+
+
+
+
+.wq-servicos-interna_01 .wq-formulario_servicos h2{
+    margin-bottom: 20px;
+}
+.wq-servicos-interna_01 form textarea{
+    height: 100px;
+}
+.wq-servicos-interna_01 input,.wq-servicos-interna_01 form textarea{
+    border: 1px solid #939494;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    line-height: 1.3;
+    border-radius: 3px;
+    padding: 20px 20px 20px 60px;
+    width: calc(100% - 82px);
+    display: block;
+    color: #939494;
+    transition: all linear .3s;
+}
+.wq-servicos-interna_01 form button{
+    width: auto;
+    margin-top: 0;
+}
+.wq-servicos-interna_01 form input:focus{background-color: #fff;}
+.wq-servicos-interna_01 form textarea:focus{background-color: #fff;}
+.wq-servicos-interna_01 .wq-icones{
+    position: relative;
+    margin-bottom: 25px;
+}
+.wq-servicos-interna_01 .wq-icones i{
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    display: inline-block;
+    font-size: 25px;
+    color:#939494;
+}
+.wq-servicos-interna_01 .wq-icones img{
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    display: inline-block;
+}
+

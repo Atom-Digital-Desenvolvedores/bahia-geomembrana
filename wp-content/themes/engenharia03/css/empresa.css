@@ -1,0 +1,93 @@
+.wq-01-empresa{
+	text-align: center;
+	padding: 100px 0 153px 0;
+}
+.wq-01-empresa p{
+	font-weight: 400;
+	font-size: 19px;
+	line-height: 1.8;
+}
+/*wq-02*/
+.wq-02-empresa{
+	background-color: #f8f8f8;
+	padding: 110px 0 153px 0;
+	text-align: center;
+}
+.wq-02-empresa h2{
+	font-weight: 700;
+	font-size: 48px;
+	line-height: 1.4;
+}
+
+.wq-02-empresa .wq-icon {
+	border: 2px solid #9b2743;
+	width: 105px;
+	height: 105px;
+	border-radius: 50%;
+	display: flex;
+	margin: 0 auto;
+	align-items: center;
+	justify-content: center;
+}
+
+.wq-02-empresa .wq-icon img{
+	width: 46px;
+	height: auto;
+}
+
+.wq-02-empresa .wq-conteudo h3{
+	font-weight: 700;
+	font-size: 25px;
+	margin: 20px 0;
+}
+.wq-02-empresa .wq-conteudo p{
+	font-weight: 400;
+	font-size: 14px;
+}
+
+
+/*wq-04*/
+.wq-04-empresa .wq-titulo_1{ color: #333;}
+.wq-04-empresa{padding: 100px 0;text-align: center;}
+.wq-04-empresa img{
+	object-fit: cover;
+	height: 100%;
+	display: block;
+	width: 100%;
+}
+.wq-04-empresa .wq-conteudo h3{
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 1.5;
+	margin: 20px 0 5px 0;
+	transition: all linear .3s;
+}
+.wq-04-empresa .wq-conteudo span{
+	font-size: 16px;
+	font-weight: 200;
+}
+.wq-04-empresa .wq-conteudo p{
+	margin-top: 20px;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.5;
+	color: #939494;
+}
+.wq-04-empresa .wq-conteudo ul{margin-top: 15px;}
+.wq-04-empresa .wq-conteudo ul li{
+	margin: 0px 8px;
+	font-size: 21px;
+	transition: all linear .3s;
+}
+
+
+.wq-conteudo li{
+    color: #939494;
+    letter-spacing: 1.2px;
+    font-family: 'Nunito Sans', sans-serif;
+    line-height: 1.5;
+}
+
+
+
+

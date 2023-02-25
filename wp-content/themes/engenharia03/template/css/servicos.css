@@ -1,0 +1,31 @@
+.wq-01-servicos{text-align: center;padding: 100px 0;}
+.wq-01-servicos p{
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 1.8;
+    max-width: 930px;
+    margin: 0 auto;
+}
+/*wq-02*/
+.wq-02-servicos{padding-bottom: 100px;}
+.wq-02-servicos h3{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: all linear .3s;
+}
+.wq-02-servicos p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.75;
+    color: #939494;
+}
+.wq-02-servicos figure{height: 230px;}
+.wq-02-servicos img{display: block;width: 100%;height: 100%;object-fit: cover;}
+.wq-02-servicos .wq-flex{flex-wrap: wrap;justify-content: flex-start;}
+/*wq-03*/
+
+
+.wq-06{background-image: none!important;}
+.wq-06:after{display: none;}

@@ -1,0 +1,106 @@
+
+.wq-01-contato{
+    padding: 100px 0;
+    background: #f9f9f9;
+}
+.wq-01-contato .wq-titulo_1{
+    text-align: left;
+    color: #333;
+    margin-bottom: 40px;
+    display: none;
+}
+.wq-01-contato .wq-btn_1{
+    width: 200px;
+}
+.wq-01-contato h5{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.8;
+}
+.wq-01-contato h5 a{
+    transition: all linear .3s;
+}
+
+.wq-endereco-contato{
+    margin-bottom: 40px;
+}
+.wq-01-contato .wq-endereco-contato h5{
+    max-width: 400px;
+    margin-bottom: 20px;
+    transition: all linear .2s;
+}
+.wq-01-contato p,.wq-01-contato ul li{
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #939494;
+}
+
+.wq-01-contato .wq-endereco-contato h5:hover{
+    color: #0098da;
+}
+
+
+
+
+.wq-01-contato form textarea{
+    height: 100px;
+}
+.wq-01-contato input,.wq-01-contato form textarea{
+    border: 1px solid #939494;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    line-height: 1.3;
+    border-radius: 3px;
+    padding: 20px 20px 20px 60px;
+    width: calc(100% - 82px);
+    display: block;
+    color: #939494;
+    transition: all linear .3s;
+}
+.wq-01-contato form input:focus{background-color: #fff;}
+.wq-01-contato form textarea:focus{background-color: #fff;}
+.wq-01-contato .wq-icones{
+    position: relative;
+    margin-bottom: 25px;
+}
+.wq-01-contato .wq-icones i{
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    display: inline-block;
+    font-size: 25px;
+    color:#939494;
+    transition: all linear .2s;
+}
+.wq-01-contato .wq-icones img{
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    display: inline-block;
+}
+.wq-01-contato form input::-webkit-input-placeholder{
+    color:#939494;
+    font-size: 14px;
+}
+.wq-03_blog-interna form input::-moz-input-placeholder{
+    color:#939494;
+    font-size: 16px;
+}
+.wq-01-contato form textarea::-webkit-input-placeholder{
+    color:#939494;
+    font-size: 14px;
+}
+.wq-01-contato form textarea::-moz-input-placeholder{
+    color:#939494;
+    font-size: 14px;
+}
+.wq-01-contato form button{
+    margin-top: 0;
+    border: none;
+}
+
+
+

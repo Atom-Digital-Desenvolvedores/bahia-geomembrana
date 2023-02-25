@@ -1,0 +1,119 @@
+.wq-01-empresa{
+	text-align: center;
+	padding: 100px 0 153px 0;
+}
+.wq-01-empresa p{
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 1.8;
+}
+/*wq-02*/
+.wq-02-empresa{
+	padding: 110px 0 153px 0;
+	text-align: center;
+}
+.wq-02-empresa h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.4;
+    color: #fff;
+}
+.wq-02-empresa .wq-icon{
+	display: inline-block;
+    border-width: 2px;
+    border-style:  solid;
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+}
+.wq-02-empresa .wq-icon i{
+	margin-top: 21.5px;
+	font-size: 44px;
+	display: inline-block;
+}
+.wq-02-empresa .wq-conteudo h3{
+    font-weight: 700;
+    font-size: 25px;
+    color: #fff;
+    margin: 20px 0;
+}
+.wq-02-empresa .wq-conteudo p{
+	font-weight: 400;
+    font-size: 14px;
+    color: #fff;
+}
+/*wq-03*/
+.wq-03-empresa{padding: 110px 0;background-color: #f8f8f8;}
+.wq-03-empresa .wq-titulo_1{
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.wq-03-empresa .wq-conteudo h3 a{transition: all linear .3s;}
+.wq-03-empresa .wq-conteudo{padding: 20px 0px;margin-bottom: 20px;}
+.wq-03-empresa .wq-conteudo h3{
+	position: relative;
+	z-index: 1;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.5;
+}
+.wq-03-empresa .wq-conteudo h3:after{
+    position: absolute;
+    top: -42px;
+    display: block;
+    left: -30px;
+    z-index: -1;
+    line-height: 1;
+    font-size: 110px;
+    color: #939494;
+}
+.wq-03-empresa .wq-conteudo:nth-child(1) h3:after{content: '01.';}
+.wq-03-empresa .wq-conteudo:nth-child(2) h3:after{content: '02.';}
+.wq-03-empresa .wq-conteudo:nth-child(3) h3:after{content: '03.';}
+.wq-03-empresa .wq-conteudo p{
+	margin-top: 50px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #939494;
+}
+
+/*wq-04*/
+.wq-04-empresa .wq-titulo_1{ color: #333;}
+.wq-04-empresa{padding: 100px 0;text-align: center;}
+.wq-04-empresa figure{height:250px;}
+.wq-04-empresa img{
+    object-fit: cover;
+    height: 100%;
+	display: block;
+	width: 100%;
+}
+.wq-04-empresa .wq-conteudo h3{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.5;
+    margin: 20px 0 5px 0;
+    transition: all linear .3s;
+}
+.wq-04-empresa .wq-conteudo span{
+	font-size: 16px;
+	font-weight: 200;
+}
+.wq-04-empresa .wq-conteudo p{
+	margin-top: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #939494;
+}
+.wq-04-empresa .wq-conteudo ul{margin-top: 15px;}
+.wq-04-empresa .wq-conteudo ul li{
+	margin: 0px 8px;
+	font-size: 21px;
+	transition: all linear .3s;
+}
+
+
+
+
